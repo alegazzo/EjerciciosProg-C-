@@ -8,3 +8,13 @@ C:\Users\AleGazzo\Desktop\UTN\3er cuatri\Programacion 3\Ejercicios WINFORMS\Winf
 C:\Users\AleGazzo\Desktop\UTN\3er cuatri\Programacion 3\Ejercicios WINFORMS\Winform\Winform1\obj\Debug\Winform1.csproj.CoreCompileInputs.cache
 C:\Users\AleGazzo\Desktop\UTN\3er cuatri\Programacion 3\Ejercicios WINFORMS\Winform\Winform1\obj\Debug\Winform1.exe
 C:\Users\AleGazzo\Desktop\UTN\3er cuatri\Programacion 3\Ejercicios WINFORMS\Winform\Winform1\obj\Debug\Winform1.pdb
+C:\Users\AleGazzo\Desktop\UTN\3er cuatri\Programacion 3\Ejercicios WINFORMS\WINFORM APP 1\Winform1\bin\Debug\Winform1.exe.config
+C:\Users\AleGazzo\Desktop\UTN\3er cuatri\Programacion 3\Ejercicios WINFORMS\WINFORM APP 1\Winform1\bin\Debug\Winform1.exe
+C:\Users\AleGazzo\Desktop\UTN\3er cuatri\Programacion 3\Ejercicios WINFORMS\WINFORM APP 1\Winform1\bin\Debug\Winform1.pdb
+C:\Users\AleGazzo\Desktop\UTN\3er cuatri\Programacion 3\Ejercicios WINFORMS\WINFORM APP 1\Winform1\obj\Debug\Winform1.csprojAssemblyReference.cache
+C:\Users\AleGazzo\Desktop\UTN\3er cuatri\Programacion 3\Ejercicios WINFORMS\WINFORM APP 1\Winform1\obj\Debug\Winform1.Formulario.resources
+C:\Users\AleGazzo\Desktop\UTN\3er cuatri\Programacion 3\Ejercicios WINFORMS\WINFORM APP 1\Winform1\obj\Debug\Winform1.Properties.Resources.resources
+C:\Users\AleGazzo\Desktop\UTN\3er cuatri\Programacion 3\Ejercicios WINFORMS\WINFORM APP 1\Winform1\obj\Debug\Winform1.csproj.GenerateResource.cache
+C:\Users\AleGazzo\Desktop\UTN\3er cuatri\Programacion 3\Ejercicios WINFORMS\WINFORM APP 1\Winform1\obj\Debug\Winform1.csproj.CoreCompileInputs.cache
+C:\Users\AleGazzo\Desktop\UTN\3er cuatri\Programacion 3\Ejercicios WINFORMS\WINFORM APP 1\Winform1\obj\Debug\Winform1.exe
+C:\Users\AleGazzo\Desktop\UTN\3er cuatri\Programacion 3\Ejercicios WINFORMS\WINFORM APP 1\Winform1\obj\Debug\Winform1.pdb

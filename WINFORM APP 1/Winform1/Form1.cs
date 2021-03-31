@@ -20,31 +20,38 @@ namespace Winform1
 
         private void button1_Click(object sender, EventArgs e)
         {
+            int errores = 0;
             if (textApellido.Text == "")
             {
-                textApellido.BackColor = Color.Red;
-                errorProvider1.SetError(labelResul, "Campos incompletos");
+                colorRojo(textApellido);
+                errores++;
+            }
+
+            if (textNombre.Text == "")
+            {
+                colorRojo(textNombre);
+                errores++;
+            }
+
+            if (textEdad.Text == "")
+            {
+                colorRojo(textEdad);
+                errores++;
+            }
+            if (textDirec.Text == "")
+            {
+                colorRojo(textDirec);
+                errores++;
+            }
+            if(errores == 0)
+            {
+                textRes.Text = "Apellido y Nombre: " + textApellido.Text + " " + textNombre.Text + "\r\n";
+                textRes.Text += "Edad: " + textEdad.Text + "\r\n";
+                textRes.Text += "Dirección: " + textDirec.Text;
             }
             else
-                textApellido.BackColor = System.Drawing.SystemColors.Control;
-            if (textNombre.Text == "")
-                textNombre.BackColor = Color.Red;
-            else
-                textNombre.BackColor = System.Drawing.SystemColors.Control;
-            if (textEdad.Text == "")
-                textEdad.BackColor = Color.Red;
-            else
-                textEdad.BackColor = System.Drawing.SystemColors.Control;
-            if (textDirec.Text == "")
-                textDirec.BackColor = Color.Red;
-            else
-                textDirec.BackColor = System.Drawing.SystemColors.Control;
-            
-                
-            textRes.Text = "Apellido y Nombre: " + textApellido.Text + " " + textNombre.Text + "\r\n";
-            textRes.Text += "Edad: " + textEdad.Text + "\r\n";
-            textRes.Text += "Dirección: " + textDirec.Text;
-
+            errorProvider1.SetError(labelResul, "Campos incompletos");
+    
         }
 
        
@@ -72,6 +79,10 @@ namespace Winform1
             txt.BackColor = System.Drawing.SystemColors.Control;
         }
 
+        private void colorRojo (TextBox txt)
+        {
+            txt.BackColor = Color.Red;
+        }
         private void textApellido_TextChanged(object sender, EventArgs e)
         {
             colorOriginal(textApellido);
@@ -87,10 +98,7 @@ namespace Winform1
             colorOriginal(textDirec);
         }
 
-        private void textRes_Leave(object sender, EventArgs e)
-        {
-            MessageBox.Show("Tiene " + textRes.Text.Length + " Caracteres");
-        }
+      
     }
 
 }

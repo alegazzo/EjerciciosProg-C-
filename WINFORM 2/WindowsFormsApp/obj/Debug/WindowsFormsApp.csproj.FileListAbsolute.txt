@@ -1,0 +1,10 @@
+C:\Users\AleGazzo\Desktop\UTN\3er cuatri\Programacion 3\Ejercicios WINFORMS\WINFORM 2\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\AleGazzo\Desktop\UTN\3er cuatri\Programacion 3\Ejercicios WINFORMS\WINFORM 2\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\AleGazzo\Desktop\UTN\3er cuatri\Programacion 3\Ejercicios WINFORMS\WINFORM 2\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\AleGazzo\Desktop\UTN\3er cuatri\Programacion 3\Ejercicios WINFORMS\WINFORM 2\WindowsFormsApp\obj\Debug\WindowsFormsApp.csprojAssemblyReference.cache
+C:\Users\AleGazzo\Desktop\UTN\3er cuatri\Programacion 3\Ejercicios WINFORMS\WINFORM 2\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\AleGazzo\Desktop\UTN\3er cuatri\Programacion 3\Ejercicios WINFORMS\WINFORM 2\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\AleGazzo\Desktop\UTN\3er cuatri\Programacion 3\Ejercicios WINFORMS\WINFORM 2\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\AleGazzo\Desktop\UTN\3er cuatri\Programacion 3\Ejercicios WINFORMS\WINFORM 2\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\AleGazzo\Desktop\UTN\3er cuatri\Programacion 3\Ejercicios WINFORMS\WINFORM 2\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\AleGazzo\Desktop\UTN\3er cuatri\Programacion 3\Ejercicios WINFORMS\WINFORM 2\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb

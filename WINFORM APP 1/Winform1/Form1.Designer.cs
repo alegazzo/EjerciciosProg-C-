@@ -152,7 +152,6 @@ namespace Winform1
             this.textRes.Name = "textRes";
             this.textRes.Size = new System.Drawing.Size(522, 114);
             this.textRes.TabIndex = 10;
-            this.textRes.Leave += new System.EventHandler(this.textRes_Leave);
             // 
             // btnCancelar
             // 
